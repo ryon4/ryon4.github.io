@@ -1,7 +1,9 @@
 ---
 layout: default
-title: タイトルは2つある
-description: metaタグで見れる
+title: TOP
 ---
 
 # Hello world
+
+- hoge
+- huga
